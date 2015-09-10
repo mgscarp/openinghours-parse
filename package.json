@@ -1,6 +1,6 @@
 {
   "name": "mgscarp-openinghours-parse",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Parse openinghours.",
   "main": "index.js",
   "scripts": {
